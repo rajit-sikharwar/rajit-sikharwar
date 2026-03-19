@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Problem Solving And Data Analytics**
 
-- 📫 How to reach me **sikharwarrjtds34739@gmail.com**
+- 📫 How to reach me **rajitsikharwar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
