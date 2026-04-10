@@ -1,54 +1,72 @@
-<!-- PROFILE HEADER -->
+<!-- HEADER BANNER -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Rajit%20Sikharwar&fontSize=70&fontAlign=50&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
+</div>
 
-<h1 align="center">Rajit Sikharwar</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Data Analyst | Financial Data Analytics | Python • SQL • Excel
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Financial+Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Transforming+Data+Into+Insights"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
 
 <p align="center">
-Transforming raw data into meaningful insights
+
+I am a **BCA student passionate about Data Analytics and Financial Data Analysis**.  
+I enjoy working with data, identifying patterns, and transforming raw information into meaningful insights.
+
+My long-term goal is to become a **Global Financial Data Analyst** working with large datasets and financial systems.
+
 </p>
 
 ---
 
-# About Me
+# 📊 Analytics Dashboard
 
-I am currently pursuing a **Bachelor of Computer Applications (BCA)** and building strong skills in **data analytics, statistics, and business intelligence**.
+<div align="center">
 
-My focus is on learning how to analyze data, identify patterns, and support data-driven decision making. I am particularly interested in **financial data analytics and global financial markets**.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-My long-term goal is to become a **Global Financial Data Analyst** working with large datasets to solve complex financial problems.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# What I Am Currently Learning
-
-- Python for Data Analysis
-- SQL for Data Querying
-- Advanced Excel
-- Statistics for Data Analytics
-- Business Intelligence Tools
-- Financial Data Analytics
+</div>
 
 ---
 
-# Skills
+# 🔥 GitHub Streak
 
-### Programming
+<div align="center">
 
-- Python  
-- Java  
-- JavaScript  
+<img src="https://streak-stats.demolab.com?user=rajit-sikharwar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Data Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajit-sikharwar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 Tech Stack
 
 ### Data Analytics
 
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization  
-- Statistical Analysis  
+<div align="center">
 
-### Tools
+[![Skills](https://skillicons.dev/icons?i=python,r,mysql)](https://skillicons.dev)
+
+</div>
+
+Tools
 
 - Excel  
 - Power BI  
@@ -57,87 +75,95 @@ My long-term goal is to become a **Global Financial Data Analyst** working with 
 - Matplotlib  
 - Plotly  
 
-### Databases
+---
 
-- MySQL  
-- MongoDB  
+### Programming
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
+
+</div>
+
+---
 
 ### Web Development
 
-- HTML  
-- CSS  
-- Bootstrap  
-- Tailwind CSS  
+<div align="center">
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind)](https://skillicons.dev)
+
+</div>
 
 ---
 
-# Current Focus
+### Tools
 
-- Building **real-world data analytics projects**
-- Strengthening **Python and SQL fundamentals**
-- Learning **financial analytics**
-- Developing **problem-solving and analytical thinking**
+<div align="center">
 
----
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,figma)](https://skillicons.dev)
 
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# GitHub Streak
+# 🐍 Contribution Snake Animation
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rajit-sikharwar&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajit-sikharwar&theme=tokyo-night"/>
-
-</p>
+</div>
 
 ---
 
-# Connect With Me
+# 📊 Contribution Heatmap
 
-GitHub  
-https://github.com/rajit-sikharwar  
+<div align="center">
 
-LinkedIn  
-https://linkedin.com/in/rajit-sikharwar  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajit-sikharwar&theme=github_dark"/>
 
-Email  
-rajitsikharwar1@gmail.com  
-
-Instagram  
-https://instagram.com/rajit_sikharwar  
+</div>
 
 ---
 
-# Profile Views
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rajit-sikharwar&label=Profile%20Views&color=blue&style=flat"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rajit-sikharwar)
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rajit-sikharwar)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/rajit_sikharwar)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:rajitsikharwar1@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-Learning continuously • Building step by step • Growing with data
-</p>
+# ✨ Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajit-sikharwar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+</div>
