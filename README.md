@@ -26,20 +26,17 @@ My goal is to become a **Global Financial Data Analyst** working with large fina
 # Skills
 
 ### Programming
-
 Python  
 Java  
 JavaScript  
 
 ### Data Analytics
-
 Data Cleaning  
 Exploratory Data Analysis  
 Statistical Analysis  
 Data Visualization  
 
 ### Tools
-
 Excel  
 Power BI  
 Pandas  
@@ -48,7 +45,6 @@ Matplotlib
 Plotly  
 
 ### Databases
-
 MySQL  
 MongoDB  
 
@@ -75,13 +71,23 @@ MongoDB
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&theme=radical&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=donut&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=donut&theme=radical&cache_seconds=1800"/>
+
+</p>
+
+---
+
+# Streak Statistics
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajit-sikharwar&theme=radical&cache_seconds=1800"/>
 
 </p>
 
@@ -101,7 +107,7 @@ MongoDB
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajit-sikharwar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajit-sikharwar&theme=tokyonight&utcOffset=5.5"/>
 
 </p>
 
@@ -121,7 +127,7 @@ MongoDB
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=rajit-sikharwar&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=rajit-sikharwar&color=blue&style=for-the-badge"/>
 
 </p>
 
