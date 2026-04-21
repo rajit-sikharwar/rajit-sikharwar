@@ -19,7 +19,7 @@ I am currently pursuing **Bachelor of Computer Applications (BCA)** and focusing
 - Business Intelligence
 - Statistical Analysis
 
-My goal is to become a **Global Financial Data Analyst** working with large financial datasets and advanced analytics tools.
+My goal is to become a **Data Analyst** working with large datasets and advanced analytics tools.
 
 ---
 
@@ -135,23 +135,23 @@ MongoDB
 
 # Connect With Me
 
+Email  
+rajitsikharwar1@gmail.com
+
 GitHub  
 https://github.com/rajit-sikharwar  
 
 LinkedIn  
-https://linkedin.com/in/rajit-sikharwar  
+https://linkedin.com/in/rajit-sikharwar    
 
-Email  
-rajitsikharwar1@gmail.com  
-
-Instagram  
-https://instagram.com/rajit_sikharwar  
+X [Twitter]
+https://x.com/rajit8279
 
 ---
 
 <p align="center">
 
-Building analytical thinking • Exploring financial data • Learning continuously
+Building analytical thinking • Exploring data • Learning continuously
 
 </p>
 
