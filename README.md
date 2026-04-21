@@ -1,7 +1,7 @@
 <h1 align="center">Rajit Sikharwar</h1>
 
 <p align="center">
-Aspiring Data Analyst • Financial Analytics • Python • SQL • Excel
+Learning Data Analytics • Python • SQL • Excel • PowerBI/Tableau • NumPy/Pandas
 </p>
 
 <p align="center">
