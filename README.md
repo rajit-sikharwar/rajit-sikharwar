@@ -24,11 +24,11 @@
 
 ### &nbsp;About Me
 
-🎓 &nbsp;Pursuing **Bachelor of Computer Applications (BCA)**
+🎓 &nbsp;Pursuing **Master of Computer Applications (MCA)**
 
 📊 &nbsp;Focusing on **Data Analytics** and building strong foundations
 
-💹 &nbsp;Interested in **Financial Data Analysis** and **Business Intelligence**
+💹 &nbsp;Interested in **Data Analysis** and **Problem Solving**
 
 🧠 &nbsp;Exploring **Statistical Analysis** and **Data Visualization**
 
