@@ -1,164 +1,114 @@
-<!-- RAJIT SIKHARWAR — GitHub Profile README -->
-
-<!-- HEADER -->
+<!-- RAJIT SIKHARWAR | GITHUB PROFILE -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,40:16213e,100:0f3460&height=200&section=header&text=Rajit%20Sikharwar&fontSize=54&fontColor=e0e0e0&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%E2%80%82%C2%B7%E2%80%82%20Data%20Analytics%20%E2%80%82%C2%B7%E2%80%82%20Aspiring%20Data%20Analyst&descSize=15&descAlignY=60&descColor=94a3b8" width="100%" alt="Rajit Sikharwar"/>
+# RAJIT SIKHARWAR
+
+### MCA Student | Aspiring Data Analyst
+
+**Data Analytics · Python · SQL · Business Intelligence**
 
 <br/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=16&pause=1000&color=94A3B8&center=true&vCenter=true&width=680&lines=Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI+%C2%B7+Tableau;Pandas+%C2%B7+NumPy+%C2%B7+Matplotlib+%C2%B7+Plotly;Data+Cleaning+%C2%B7+EDA+%C2%B7+Statistical+Analysis;MySQL+%C2%B7+MongoDB+%C2%B7+Data+Visualization" alt="Technical skills animation"/>
-</a>
-
-</div>
-
----
-
-<!-- ABOUT ME -->
-
-<h3>About Me</h3>
-
-🎓 Pursuing **Master of Computer Applications (MCA)**
-
-📊 Focusing on **Data Analytics** and building strong foundations
-
-💹 Interested in **Data Analysis** and **Problem Solving**
-
-🧠 Exploring **Statistical Analysis** and **Data Visualization**
-
-🎯 Goal: Become a professional **Data Analyst**
-
----
-
-<!-- TECH STACK -->
-
-<h3>Tech Stack</h3>
-
-<div align="center">
-
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark&perline=3" height="48" alt="Programming languages"/>
-
-<br/><br/>
-
-**Data Analysis & Visualization**
-
-<img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=94a3b8" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=94a3b8" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-0f172a?style=flat-square&logo=python&logoColor=94a3b8" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-0f172a?style=flat-square&logo=plotly&logoColor=94a3b8" alt="Plotly"/>
-
-<br/><br/>
-
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1e293b?style=flat-square&color=1e293b)
-![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-1e293b?style=flat-square&color=1e293b)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-1e293b?style=flat-square&color=1e293b)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-1e293b?style=flat-square&color=1e293b)
-
-<br/><br/>
-
-**Business Intelligence & Tools**
-
-<img src="https://img.shields.io/badge/Power%20BI-1e293b?style=flat-square&logo=powerbi&logoColor=94a3b8" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=94a3b8" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Excel-1e293b?style=flat-square&logo=microsoftexcel&logoColor=94a3b8" alt="Excel"/>
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=94a3b8" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-1e293b?style=flat-square&logo=mongodb&logoColor=94a3b8" alt="MongoDB"/>
-
-</div>
-
----
-
-<!-- GITHUB ANALYTICS -->
-
-<h3>GitHub Analytics</h3>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajit-sikharwar&theme=transparent&background=0f172a&border=334155&ring=475569&fire=64748b&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0&stroke=0f172a" width="65%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&theme=transparent&bg_color=0f172a&title_color=94a3b8&icon_color=64748b&text_color=cbd5e1&border_color=334155&include_all_commits=true&count_private=true&rank_icon=percentile" height="162" alt="GitHub statistics"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=compact&bg_color=0f172a&title_color=94a3b8&text_color=cbd5e1&border_color=334155&langs_count=8" height="162" alt="Most used languages"/>
-
-</div>
-
----
-
-<!-- ACTIVITY OVERVIEW -->
-
-<h3>Activity Overview</h3>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajit-sikharwar&theme=nord_dark" width="98%" alt="GitHub profile summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajit-sikharwar&theme=nord_dark" width="32%" alt="Repository languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajit-sikharwar&theme=nord_dark" width="32%" alt="Most committed languages"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajit-sikharwar&theme=nord_dark&utcOffset=5.5" width="32%" alt="Productive time"/>
-
-</div>
-
----
-
-<!-- CONNECT WITH ME -->
-
-<h3>Connect With Me</h3>
-
-<div align="center">
-
-<a href="mailto:rajitsikharwar1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-rajitsikharwar1%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=94a3b8&labelColor=0f172a&color=1e293b" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/rajit-sikharwar">
-<img src="https://img.shields.io/badge/LinkedIn-rajit--sikharwar-1e293b?style=for-the-badge&logo=linkedin&logoColor=94a3b8&labelColor=0f172a&color=1e293b" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/rajit-sikharwar">
-<img src="https://img.shields.io/badge/GitHub-rajit--sikharwar-1e293b?style=for-the-badge&logo=github&logoColor=94a3b8&labelColor=0f172a&color=1e293b" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github" alt="GitHub Profile"/>
 </a>
-
-<br/><br/>
-
-<a href="https://x.com/rajit8279">
-<img src="https://img.shields.io/badge/X-rajit8279-1e293b?style=for-the-badge&logo=x&logoColor=94a3b8&labelColor=0f172a&color=1e293b" alt="X"/>
+<a href="mailto:rajitsikharwar1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/rajit-sikharwar">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-24292e?style=flat-square&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-<!-- FOOTER -->
+## About
+
+I am pursuing a **Master of Computer Applications (MCA)** and focusing on developing my skills in Data Analytics.
+
+My interests include data analysis, statistical analysis, data visualization, and problem-solving.
+
+My goal is to build a professional career as a **Data Analyst**.
+
+---
+
+## Technical Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Programming
+
+- Python
+- Java
+- JavaScript
+
+### Data Analysis
+
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+
+</td>
+<td width="50%" valign="top">
+
+### Business Intelligence
+
+- Power BI
+- Tableau
+- Microsoft Excel
+
+### Databases
+
+- MySQL
+- MongoDB
+
+</td>
+</tr>
+</table>
+
+### Areas of Interest
+
+`Data Cleaning` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualization`
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<br/>
+<a href="https://github.com/rajit-sikharwar">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&icon_color=8b949e&rank_icon=none" alt="GitHub account statistics"/>
+</a>
 
-<sub>Building analytical thinking &nbsp;·&nbsp; Exploring data &nbsp;·&nbsp; Learning continuously</sub>
+<a href="https://github.com/rajit-sikharwar?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&langs_count=6" alt="Languages in analyzed repositories"/>
+</a>
+
+</div>
+
+<sub>Statistics and language distribution are based on data available to the external service and may be affected by caching or API limitations.</sub>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:rajitsikharwar1@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://linkedin.com/in/rajit-sikharwar">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/rajit-sikharwar">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://x.com/rajit8279">X</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" alt="Profile footer"/>
+<sub>Learning continuously. Analyzing thoughtfully. Improving every day.</sub>
 
 </div>
