@@ -1,114 +1,152 @@
-<!-- RAJIT SIKHARWAR | GITHUB PROFILE -->
-
 <div align="center">
 
-# RAJIT SIKHARWAR
+# Rajit Sikharwar
 
-### MCA Student | Aspiring Data Analyst
+### MCA Student · Aspiring Data Analyst
 
-**Data Analytics · Python · SQL · Business Intelligence**
+**Turning raw data into clear, useful decisions.**
 
-<br/>
-
-<a href="https://github.com/rajit-sikharwar">
-  <img src="https://img.shields.io/badge/GitHub-Profile-24292e?style=flat-square&logo=github" alt="GitHub Profile"/>
-</a>
-<a href="mailto:rajitsikharwar1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/rajit-sikharwar">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-24292e?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-</a>
+<p>
+  <a href="https://github.com/rajit-sikharwar">GitHub</a> ·
+  <a href="https://linkedin.com/in/rajit-sikharwar">LinkedIn</a> ·
+  <a href="mailto:rajitsikharwar1@gmail.com">Email</a> ·
+  <a href="https://x.com/rajit8279">X</a>
+</p>
 
 </div>
 
 ---
 
-## About
+## Profile
 
-I am pursuing a **Master of Computer Applications (MCA)** and focusing on developing my skills in Data Analytics.
+I am pursuing a **Master of Computer Applications (MCA)** while building practical skills in data analytics and business intelligence.
 
-My interests include data analysis, statistical analysis, data visualization, and problem-solving.
-
-My goal is to build a professional career as a **Data Analyst**.
+My work is focused on understanding data, finding meaningful patterns, and communicating results through clear visualizations. I am currently preparing for a professional career as a **Data Analyst**.
 
 ---
 
-## Technical Skills
+## Analytics Toolkit
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Programming
-
-- Python
-- Java
-- JavaScript
+  <tr>
+    <td width="50%" valign="top">
 
 ### Data Analysis
 
+- Python
 - Pandas
 - NumPy
+- Exploratory Data Analysis
+- Data Cleaning
+- Statistical Analysis
+
+    </td>
+    <td width="50%" valign="top">
+
+### Visualization & BI
+
 - Matplotlib
 - Plotly
-
-</td>
-<td width="50%" valign="top">
-
-### Business Intelligence
-
 - Power BI
 - Tableau
 - Microsoft Excel
+- Data Storytelling
 
-### Databases
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Programming
+
+- Java
+- JavaScript
+- Python scripting
+
+    </td>
+    <td width="50%" valign="top">
+
+### Data Storage
 
 - MySQL
 - MongoDB
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
-### Areas of Interest
-
-`Data Cleaning` · `Exploratory Data Analysis` · `Statistical Analysis` · `Data Visualization`
 
 ---
 
-## GitHub Statistics
+## How I Approach a Data Problem
 
-<div align="center">
+```text
+Question → Collect → Clean → Explore → Visualize → Explain
+```
 
-<a href="https://github.com/rajit-sikharwar">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajit-sikharwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&icon_color=8b949e&rank_icon=none" alt="GitHub account statistics"/>
-</a>
+| Stage | What I focus on |
+| :--- | :--- |
+| **Define** | Understand the business question and the decision behind it |
+| **Prepare** | Inspect, clean, transform, and validate the data |
+| **Explore** | Identify patterns, relationships, anomalies, and trends |
+| **Communicate** | Build focused charts and dashboards that are easy to understand |
+| **Improve** | Document assumptions and refine the analysis from feedback |
 
-<a href="https://github.com/rajit-sikharwar?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajit-sikharwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=9da7b3&langs_count=6" alt="Languages in analyzed repositories"/>
-</a>
+---
 
-</div>
+## Current Focus
 
-<sub>Statistics and language distribution are based on data available to the external service and may be affected by caching or API limitations.</sub>
+- Strengthening Python and SQL for practical analysis
+- Building reliable exploratory data analysis workflows
+- Improving dashboard design and visual communication
+- Learning how to turn analysis into actionable business insights
+- Creating a portfolio of well-documented analytics projects
+
+---
+
+## Selected Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
+</p>
+
+> The tools listed here reflect my current learning and working toolkit. I avoid publishing generated percentages, language charts, streaks, or activity claims because they can misrepresent my actual experience.
+
+---
+
+## Portfolio Direction
+
+I am building projects that demonstrate the complete analytics process:
+
+- Cleaning and preparing real-world datasets
+- Performing exploratory and statistical analysis
+- Creating charts that answer specific questions
+- Designing practical dashboards
+- Explaining findings with concise documentation
+
+You can explore my repositories and follow the progress of my work from the [repositories page](https://github.com/rajit-sikharwar?tab=repositories).
 
 ---
 
 ## Connect
 
+If you are interested in data analytics, visualization, business intelligence, or collaborative learning, feel free to connect.
+
+<p>
+  <a href="mailto:rajitsikharwar1@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/rajit-sikharwar">LinkedIn</a> ·
+  <a href="https://github.com/rajit-sikharwar">GitHub</a> ·
+  <a href="https://x.com/rajit8279">X</a>
+</p>
+
 <div align="center">
 
-<a href="mailto:rajitsikharwar1@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/rajit-sikharwar">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/rajit-sikharwar">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://x.com/rajit8279">X</a>
-
-<br/><br/>
-
-<sub>Learning continuously. Analyzing thoughtfully. Improving every day.</sub>
+**Learn continuously · Analyze carefully · Communicate clearly**
 
 </div>
